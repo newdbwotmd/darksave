@@ -1,0 +1,29 @@
+사이트 : https://github.com
+
+git사용방법 : https://blog.naver.com/2000051148/221194479064
+git config help : C:\Program Files\Git\mingw64\share\doc\git-doc\git-config.html
+
+<git 설치프로그램>
+
+자동 : https://git-scm.com/download/win
+
+수동 : https://support.rstudio.com/hc/en-us/articles/200532077-version-control-with-git-and-svn  에서 git 클릭
+          
+https://git-scm.com/  에서 오른쪽 모니터화면에 다운로드하여 설치
+
+
+<도움말>
+https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%8F%84%EC%9B%80%EB%A7%90-%EB%B3%B4%EA%B8%B0
+
+https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95
+
+
+- 설치
+
+https://desktop.github.com/
+
+ 
+
+- 연동방법
+
+http://tenlie10.tistory.com/114 
